@@ -1,4 +1,4 @@
-# Foobar
+# About
 
 This small piece of software can list (or parse txt log) files and directories in folder. 
 Folder path should be passed as an argument, i.e. 
