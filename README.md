@@ -3,7 +3,7 @@
 This small piece of software can list (or parse txt log) files and directories in folder. 
 Folder path should be passed as an argument, i.e. 
 theoretically this could be launched from CLI using: java -cp Main "C:\Users\PC\Desktop\Music".
-To avoid hassle: open POM.xml file in any IDE, pass a path to directory as program arguments in runtime settings.
+To avoid hassle: open POM.xml file in any IDE, pass a path to directory as program arguments in JVM settings.
 The results are outputed in same working dir, which gets displayed in console. The contents of output txt log will look like:
 
 ```bash
